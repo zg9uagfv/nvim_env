@@ -1,0 +1,9 @@
+{
+  "snippets.ultisnips.pythonPrompt": false,
+  "suggest.noselect": false,
+  "diagnostic.virtualText": true,
+  "diagnostic.checkCurrentLine": false,
+  "coc.preferences.formatOnSave": false,
+  "clangd.checkUpdates": false,
+  "rust-analyzer.checkOnSave.enable": false
+}
